@@ -1,0 +1,26 @@
+td, th{
+    border: 2px dotted;
+    padding: 10px;
+}
+
+.coluna1{
+    color: rgb rgb(0, 0, 0);
+    background-color: darkgrey;
+}
+
+.coluna2{
+    color: white;
+    background-color: darkgrey;
+}
+.coluna3{
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 0, 0, 0.622);
+}
+.coluna4{
+    color: white;
+    background-color: greenyellow;
+}
+.coluna6{
+    color: rgb(0, 0, 0);
+    background-color: red;
+}
